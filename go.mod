@@ -1,4 +1,4 @@
-module T_invest_proto
+module github.com/SalesInstruments/T_invest_proto
 
 go 1.23.0
 
