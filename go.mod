@@ -1,4 +1,4 @@
-module T-invest-proto
+module T_invest_proto
 
 go 1.23.0
 
